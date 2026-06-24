@@ -1,4 +1,5 @@
 import ProductCard from "./ProductCard";
+import ProductCard from "./ProductCard";
 
 function ProductHighlight() {
   return (
